@@ -29,3 +29,7 @@ The v1.2-1.5 PSU connector fits a standard 4.20mm 20 pin ATX plug, v1.0-1.1 fits
 | --- | --- | --- | --- |
 | 1 | 4-640426-2 | 12POS 3.96mm IDC Female | https://www.digikey.com/short/wjbrndfq |
 | 1 | 1-643067-2 | CONN STRAIN RELIEF COVER 12POS | https://www.digikey.com/short/0tzvvf31 |
+
+
+An issue was brought up in the original git, just in case anyone is looking at having these made, make sure to look at this first.
+https://github.com/wiredopposite/ATX2Xbox/issues/1#issue-3221979730
